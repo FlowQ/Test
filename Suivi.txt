@@ -2,3 +2,5 @@ blablabla
 FQ: 10h
 Baptiste: 0.5H
 
+===============================================
+Select champs1,champs2,champs3 FROM TABLE1 WHERE champs4 = "SELECTION"
