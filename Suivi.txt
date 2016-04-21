@@ -1,6 +1,7 @@
 blablabla
 FQ: 11h
-Baptiste: 0.5H
+Baptiste: 2.5H
+Yves: 0H
 
 ===============================================
 Select champs1,champs2,champs3 FROM TABLE1 WHERE champs4 = "SELECTION"
